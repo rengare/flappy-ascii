@@ -7,5 +7,7 @@ The flappy bird clone created to run inside terminal. It's the part of
 * cargo run
 
 ### demo
-
+* ![menu](screenshots/menu.png)
+* ![gameplay](screenshots/game.png)
+* ![dead](screenshots/dead.png)
 
